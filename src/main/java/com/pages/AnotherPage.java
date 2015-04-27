@@ -7,6 +7,6 @@ public class AnotherPage {
 	
 	 
 	   @FindBy(name="search")
-	   private WebElementFacade searchTerms;
+	   private WebElementFacade searchTermsf;
 
 }
