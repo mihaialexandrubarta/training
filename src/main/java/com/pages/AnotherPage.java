@@ -5,8 +5,7 @@ import net.thucydides.core.pages.WebElementFacade;
 
 public class AnotherPage {
 	
-	   @FindBy(name="search")
-	    private WebElementFacade searchTerms;
+	 
 	   @FindBy(name="search")
 	   private WebElementFacade searchTerms2;
 
